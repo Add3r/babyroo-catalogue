@@ -1,0 +1,1547 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updateUrl": "https://raw.githubusercontent.com/Add3r/babyroo-catalogue/main/catalogue-US.json",
+  "country": "US",
+  "countryName": "United States",
+  "currency": "USD",
+  "reviewed": "2026-09-27",
+  "stages": [
+    "Planning pregnancy and early pregnancy: before conception–13 weeks",
+    "Pregnancy comfort and preparation: 14–27 weeks",
+    "Pregnancy care: 28 weeks to birth",
+    "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks",
+    "Transport: prepare before first journey",
+    "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks",
+    "Feeding: select pathways; do not assume an equipment bundle",
+    "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance",
+    "Birth–3 months: replenish and observe",
+    "3–6 months: prepare for changing mobility and later solids",
+    "Around 6–12 months: solids and active exploration",
+    "12–18 months: walking, family routines and care",
+    "18–24 months: dental supplies and emerging independence",
+    "2–3 years: flexible transitions",
+    "3–4 years: preschool participation",
+    "4–5 years: preschool to school transition"
+  ],
+  "items": [
+    {
+      "id": "US_CARE_CARRIER",
+      "title": "Discuss optional carrier screening",
+      "priority": "C",
+      "quantity": "Before or early in pregnancy",
+      "note": "Ask about inherited-condition carrier screening and possible partner testing; this differs from fetal chromosome screening.",
+      "evidence": "carrier; editorial draft, source checked 27 September 2026. Clinician discussion, not individual advice.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks",
+      "kind": "care"
+    },
+    {
+      "id": "US_CARE_SCREEN",
+      "title": "Discuss prenatal screening and anatomy scan",
+      "priority": "C",
+      "quantity": "Early and mid-pregnancy",
+      "note": "Ask about screening choices, limitations and costs; NIPT is a screen, not a diagnosis.",
+      "evidence": "antenatal; editorial draft, source checked 27 September 2026. Clinician discussion, not individual advice.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks",
+      "kind": "care"
+    },
+    {
+      "id": "US_CARE_VACCINES",
+      "title": "Discuss pregnancy immunisations",
+      "priority": "C",
+      "quantity": "During pregnancy",
+      "note": "Ask your obstetric clinician about Tdap, flu and RSV eligibility and current timing.",
+      "evidence": "vaccines; editorial draft, source checked 27 September 2026. Clinician discussion, not individual advice.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks",
+      "kind": "care"
+    },
+    {
+      "id": "US_P01",
+      "title": "Home pregnancy test",
+      "priority": "C",
+      "quantity": "small pack",
+      "note": "When testing is relevant; avoid automatic monthly purchase",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P02",
+      "title": "Ovulation tests",
+      "priority": "O",
+      "quantity": "trial pack",
+      "note": "Only if wanted; no fertility-outcome promise",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P03",
+      "title": "Basal thermometer",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Only for chosen tracking method; distinct from child thermometer",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P08",
+      "title": "Comfortable bra",
+      "priority": "C",
+      "quantity": "1–2 initially",
+      "note": "Buy as fit changes; does not need maternity branding",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P09",
+      "title": "Maternity clothing basics",
+      "priority": "C",
+      "quantity": "small capsule",
+      "note": "Existing stretchy clothing first; seasonal fit",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P10",
+      "title": "Reusable drink bottle",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Use existing bottle",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P12",
+      "title": "Pregnancy journal or paid tracking tool",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Paper/free alternatives; unnecessary for shopping planner",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Planning pregnancy and early pregnancy: before conception–13 weeks"
+    },
+    {
+      "id": "US_P13",
+      "title": "Pregnancy pillow",
+      "priority": "O",
+      "quantity": "1",
+      "note": "If uncomfortable; try existing pillows first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_P14",
+      "title": "Maternity underwear",
+      "priority": "C",
+      "quantity": "small pack",
+      "note": "When existing fit becomes uncomfortable",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_P15",
+      "title": "Support belt",
+      "priority": "C",
+      "quantity": "advised only",
+      "note": "Individual comfort/clinical assessment",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_P16",
+      "title": "Compression hosiery",
+      "priority": "C",
+      "quantity": "advised only",
+      "note": "Correct indication and fit; not a universal flight/pregnancy purchase",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_P17",
+      "title": "Comfortable footwear",
+      "priority": "C",
+      "quantity": "1 pair",
+      "note": "Replace only as needed",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_P18",
+      "title": "Birth exercise ball",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Ask care team about suitable use; borrow if appropriate",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_P19",
+      "title": "Meal-storage containers",
+      "priority": "O",
+      "quantity": "small set",
+      "note": "Use existing freezer containers for postpartum meals",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_H01",
+      "title": "Crib and compatible mattress",
+      "priority": "E",
+      "quantity": "1 sleep arrangement",
+      "note": "Choose a firm, correctly fitting sleep setup; follow current local safe-sleep guidance and product instructions. Avoid loose or soft items in the sleep space.",
+      "evidence": "sleep; editorial draft.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H02",
+      "title": "Bassinet",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Choose a firm, correctly fitting sleep setup; follow current local safe-sleep guidance and product instructions. Avoid loose or soft items in the sleep space.",
+      "evidence": "sleep; editorial draft.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H03",
+      "title": "Firm correctly fitting mattress",
+      "priority": "E",
+      "quantity": "if not included",
+      "note": "Choose a firm, correctly fitting sleep setup; follow current local safe-sleep guidance and product instructions. Avoid loose or soft items in the sleep space.",
+      "evidence": "sleep; editorial draft.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H04",
+      "title": "Fitted sheets",
+      "priority": "E",
+      "quantity": "2–3",
+      "note": "Exact mattress size; laundry affects quantity",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H05",
+      "title": "Compatible mattress protector",
+      "priority": "C",
+      "quantity": "1–2",
+      "note": "Must preserve firm flat fit; follow product instructions",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H06",
+      "title": "Suitable sleep clothing or sleeping bags",
+      "priority": "E",
+      "quantity": "small rotation",
+      "note": "Choose a firm, correctly fitting sleep setup; follow current local safe-sleep guidance and product instructions. Avoid loose or soft items in the sleep space.",
+      "evidence": "sleep; editorial draft.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H07",
+      "title": "Swaddle wraps",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Only appropriate technique/development; cessation guidance needs review",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H08",
+      "title": "Review safe sleep clothing; no loose bedding",
+      "priority": "O",
+      "quantity": "Guidance review",
+      "note": "Do not use loose bedding in a baby's sleep space. Check current local safe-sleep guidance for suitable clothing and temperature.",
+      "evidence": "sleep; editorial draft.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks",
+      "kind": "care"
+    },
+    {
+      "id": "US_H09",
+      "title": "Baby monitor",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Household layout need; not a SUDI-prevention device",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H10",
+      "title": "Dim night light",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Existing lamp may suffice; cables out of reach",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H11",
+      "title": "Feeding chair",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Existing supportive chair first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H12",
+      "title": "Clothes storage",
+      "priority": "C",
+      "quantity": "existing or 1 unit",
+      "note": "Anchor furniture; nursery matching sets unnecessary",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H13",
+      "title": "Furniture anchors",
+      "priority": "C",
+      "quantity": "as home requires",
+      "note": "Secure relevant furniture before child access",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H14",
+      "title": "Blind-cord safety fittings",
+      "priority": "C",
+      "quantity": "as home requires",
+      "note": "Resolve cord hazards before using nearby sleep/play area",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H15",
+      "title": "Working smoke alarms",
+      "priority": "E",
+      "quantity": "home check",
+      "note": "Check existing alarms; installation requirements need local verification",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H16",
+      "title": "Portable cot",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Choose a firm, correctly fitting sleep setup; follow current local safe-sleep guidance and product instructions. Avoid loose or soft items in the sleep space.",
+      "evidence": "sleep; editorial draft.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_H17",
+      "title": "White-noise machine",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Not required; placement/volume guidance needs review",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth-ready sleep and home: research 18–27 weeks, acquire approximately 24–34 weeks"
+    },
+    {
+      "id": "US_T01",
+      "title": "Newborn-suitable car seat",
+      "priority": "C",
+      "quantity": "1 per required setup",
+      "note": "Only if travelling by car. Check the applicable local child-restraint rules, fit to the child and vehicle, and installation instructions.",
+      "evidence": "transport; editorial draft.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T02",
+      "title": "Restraint fitting service",
+      "priority": "C",
+      "quantity": "service",
+      "note": "Only if travelling by car. Check the applicable local child-restraint rules, fit to the child and vehicle, and installation instructions.",
+      "evidence": "transport; editorial draft.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T03",
+      "title": "Stroller",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Newborn suitability, home access, car boot, terrain and handling first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T04",
+      "title": "Baby carrier or wrap",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Fit and safe positioning; try before purchase",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T05",
+      "title": "Compatible pram rain cover",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Weather need; ventilation and manufacturer instructions",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T06",
+      "title": "Compatible pram insect cover",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Local exposure; never assume any cover is safe in heat",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T07",
+      "title": "Diaper bag or existing backpack",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Existing washable bag can meet need",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T08",
+      "title": "Travel change mat",
+      "priority": "O",
+      "quantity": "1",
+      "note": "May already be included with bag",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T09",
+      "title": "Pram/car-seat adapters",
+      "priority": "C",
+      "quantity": "exact set",
+      "note": "Only if travelling by car. Check the applicable local child-restraint rules, fit to the child and vehicle, and installation instructions.",
+      "evidence": "transport; editorial draft.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_T10",
+      "title": "Second restraint/base",
+      "priority": "C",
+      "quantity": "extra vehicle",
+      "note": "Only if travelling by car. Check the applicable local child-restraint rules, fit to the child and vehicle, and installation instructions.",
+      "evidence": "transport; editorial draft.",
+      "stage": "Transport: prepare before first journey"
+    },
+    {
+      "id": "US_N01",
+      "title": "Disposable diapers",
+      "priority": "C",
+      "quantity": "starter packs",
+      "note": "Disposable or mixed pathway; avoid newborn-size stockpile",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N02",
+      "title": "Cloth diapers",
+      "priority": "C",
+      "quantity": "trial before full set",
+      "note": "Alternative/mixed pathway; washing and drying affect quantity",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N03",
+      "title": "Cloth inserts or covers",
+      "priority": "C",
+      "quantity": "system-dependent",
+      "note": "Check N02 inclusions and fit",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N04",
+      "title": "Wipes or reusable cleaning cloths",
+      "priority": "E",
+      "quantity": "starter supply",
+      "note": "Compare usable unit cost; avoid bulk before tolerance known",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N05",
+      "title": "Barrier cream",
+      "priority": "C",
+      "quantity": "small pack",
+      "note": "Choose suitable product; not a treatment substitute",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N06",
+      "title": "Washable change mat",
+      "priority": "E",
+      "quantity": "1",
+      "note": "Floor-based option can avoid furniture purchase",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N07",
+      "title": "Change table",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Convenience only; storage surface and fall risks matter",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N08",
+      "title": "Diaper disposal bin",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Existing suitable bin may suffice; count refill cost",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N09",
+      "title": "Wet bag",
+      "priority": "C",
+      "quantity": "1–2",
+      "note": "Cloth/outings/care use; reusable bag alternative",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_N10",
+      "title": "Laundry supplies",
+      "priority": "C",
+      "quantity": "household stock",
+      "note": "Avoid assuming specialist detergent is necessary",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C01",
+      "title": "Bodysuits/singlets",
+      "priority": "E",
+      "quantity": "small rotation",
+      "note": "Small current-size batch; laundry and climate dependent",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C02",
+      "title": "Sleepsuits/jumpsuits",
+      "priority": "E",
+      "quantity": "small rotation",
+      "note": "Do not bulk-buy newborn size",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C03",
+      "title": "Socks",
+      "priority": "C",
+      "quantity": "small pack",
+      "note": "Climate and clothing dependent",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C04",
+      "title": "Warm outer layer",
+      "priority": "C",
+      "quantity": "1–2",
+      "note": "Due-season and locality; not indoor overheating",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C05",
+      "title": "Outdoor sun hat",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Sun exposure; not a sleep hat",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C06",
+      "title": "Warm outdoor hat",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Cold conditions; remove for sleep",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_C07",
+      "title": "Burp cloths",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Existing clean cloths can work",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B01",
+      "title": "Baby bath",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Suitable existing washing arrangement may suffice",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B02",
+      "title": "Towels",
+      "priority": "E",
+      "quantity": "2 existing or new",
+      "note": "Hooded baby branding not required",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B03",
+      "title": "Washcloths",
+      "priority": "E",
+      "quantity": "small set",
+      "note": "Existing soft cloths first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B04",
+      "title": "Gentle baby wash",
+      "priority": "O",
+      "quantity": "small pack",
+      "note": "Avoid large cosmetic bundles",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B05",
+      "title": "Baby nail clippers or scissors",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Age-appropriate tool",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B06",
+      "title": "Soft hairbrush",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Buy if useful",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B07",
+      "title": "Bath thermometer",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Device never substitutes for safe bathing practices",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_B08",
+      "title": "Child-appropriate digital thermometer",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Confirm suitable type and instructions with pharmacist",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Diaper changing, clothing and bathing: small starter supply by 32–34 weeks"
+    },
+    {
+      "id": "US_F01",
+      "title": "Nursing bras",
+      "priority": "C",
+      "quantity": "small rotation",
+      "note": "Breastfeeding pathway; fit can change postpartum",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F02",
+      "title": "Breast pads",
+      "priority": "C",
+      "quantity": "trial supply",
+      "note": "If leaking; washable/disposable alternatives",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F03",
+      "title": "Nipple-care product",
+      "priority": "C",
+      "quantity": "if needed",
+      "note": "Seek feeding support for pain; no routine treatment bundle",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F04",
+      "title": "Feeding pillow",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Existing support may suffice; never infant sleep equipment",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F05",
+      "title": "Breast pump purchase or hire",
+      "priority": "C",
+      "quantity": "1 solution",
+      "note": "Expressing need/frequency; avoid prenatal premium purchase by default",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F06",
+      "title": "Correct pump collection kit/flanges",
+      "priority": "C",
+      "quantity": "compatible set",
+      "note": "Personal kit needed with hire; check fit and model",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F07",
+      "title": "Milk-storage containers/bags",
+      "priority": "C",
+      "quantity": "small supply",
+      "note": "Expressing/storage pathway; minimise waste",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F08",
+      "title": "Bottles and teats",
+      "priority": "C",
+      "quantity": "small trial set",
+      "note": "Expressed milk/formula; expand after suitability known",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F09",
+      "title": "Bottle-cleaning equipment",
+      "priority": "C",
+      "quantity": "suitable setup",
+      "note": "If bottles used",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F10",
+      "title": "Cleaning and sanitizing feeding equipment (if bottle-feeding)",
+      "priority": "C",
+      "quantity": "one method",
+      "note": "Ask your baby's clinician how often to sanitize; CDC highlights extra care for babies under 2 months, premature babies and those with weakened immune systems. Clean equipment after use.",
+      "evidence": "feeding; editorial draft.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F11",
+      "title": "Infant formula",
+      "priority": "C",
+      "quantity": "small initial supply",
+      "note": "Formula/mixed pathway; age/clinical suitability first, price second",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F12",
+      "title": "Bottle warmer",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Convenience; not a default necessity",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F13",
+      "title": "Drying rack",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Existing hygienic arrangement may suffice",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F14",
+      "title": "Insulated milk bag and ice packs",
+      "priority": "C",
+      "quantity": "1 setup",
+      "note": "Work/care/travel; follow safe storage guidance",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F15",
+      "title": "Replacement pump parts",
+      "priority": "C",
+      "quantity": "model-specific",
+      "note": "Follow manufacturer replacement/condition advice",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_F16",
+      "title": "Dummy",
+      "priority": "O",
+      "quantity": "small trial",
+      "note": "Age-appropriate; detailed use and replacement guidance to review",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Feeding: select pathways; do not assume an equipment bundle"
+    },
+    {
+      "id": "US_R01",
+      "title": "Maternity pads",
+      "priority": "C",
+      "quantity": "starter supply",
+      "note": "Birthing-parent recovery; replenish to need",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R02",
+      "title": "Comfortable recovery underwear",
+      "priority": "C",
+      "quantity": "small pack",
+      "note": "Existing suitable items or disposable option",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R03",
+      "title": "Loose clothes and sleepwear",
+      "priority": "E",
+      "quantity": "existing rotation",
+      "note": "Feeding access if relevant",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R04",
+      "title": "Shower footwear/slippers",
+      "priority": "O",
+      "quantity": "existing pair",
+      "note": "Facility and preference dependent",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R05",
+      "title": "Toiletries and lip balm",
+      "priority": "E",
+      "quantity": "existing travel kit",
+      "note": "Do not buy duplicate full-size sets",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R06",
+      "title": "Charger",
+      "priority": "C",
+      "quantity": "existing",
+      "note": "Pack existing charger; accessory purchase optional",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R07",
+      "title": "Snacks/drinks",
+      "priority": "C",
+      "quantity": "modest supply",
+      "note": "Facility/care instructions govern use",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R08",
+      "title": "Support-person overnight kit",
+      "priority": "C",
+      "quantity": "existing kit",
+      "note": "Clothing/toiletries as required",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R09",
+      "title": "Perineal bottle or cooling product",
+      "priority": "C",
+      "quantity": "advised/desired",
+      "note": "Individual recovery; no universal bundle",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R10",
+      "title": "Caesarean recovery products",
+      "priority": "C",
+      "quantity": "advised only",
+      "note": "Do not automatically recommend binders or scar treatments",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_R11",
+      "title": "Prepared meals/meal support",
+      "priority": "C",
+      "quantity": "household need",
+      "note": "Family help or own freezer meals before paid service",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth bag and recovery: pack around 32–34 weeks, tailored to hospital guidance"
+    },
+    {
+      "id": "US_D01",
+      "title": "Washable floor play surface",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Existing suitable blanket/mat can work for supervised awake play",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth–3 months: replenish and observe"
+    },
+    {
+      "id": "US_D02",
+      "title": "Board or cloth books",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Library/gifts first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth–3 months: replenish and observe"
+    },
+    {
+      "id": "US_D03",
+      "title": "Simple rattle/age-suitable grasping toy",
+      "priority": "O",
+      "quantity": "1–2",
+      "note": "Safe age range, no small detachable parts",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth–3 months: replenish and observe"
+    },
+    {
+      "id": "US_D04",
+      "title": "Play gym",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Not necessary in addition to all other toys",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth–3 months: replenish and observe"
+    },
+    {
+      "id": "US_D05",
+      "title": "Bouncer or rocker",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Awake use only; not a sleep product; follow limits and warnings",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Birth–3 months: replenish and observe"
+    },
+    {
+      "id": "US_D06",
+      "title": "Teething toy",
+      "priority": "O",
+      "quantity": "1–2",
+      "note": "Age-appropriate; no teething jewellery",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–6 months: prepare for changing mobility and later solids"
+    },
+    {
+      "id": "US_D07",
+      "title": "Child toothbrush",
+      "priority": "C",
+      "quantity": "1",
+      "note": "First tooth trigger, not a fixed six-month purchase",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–6 months: prepare for changing mobility and later solids"
+    },
+    {
+      "id": "US_D08",
+      "title": "Safety gates",
+      "priority": "C",
+      "quantity": "home-dependent",
+      "note": "Install before relevant mobility/access; correct mounting for location",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–6 months: prepare for changing mobility and later solids"
+    },
+    {
+      "id": "US_D09",
+      "title": "Cupboard/drawer latches",
+      "priority": "C",
+      "quantity": "hazard-dependent",
+      "note": "Secure hazardous storage before access",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–6 months: prepare for changing mobility and later solids"
+    },
+    {
+      "id": "US_D10",
+      "title": "Window safety fittings",
+      "priority": "C",
+      "quantity": "home-dependent",
+      "note": "Appropriate fittings and installation",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–6 months: prepare for changing mobility and later solids"
+    },
+    {
+      "id": "US_D11",
+      "title": "Door finger protection",
+      "priority": "C",
+      "quantity": "hazard-dependent",
+      "note": "Audit doors before buying a full kit",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–6 months: prepare for changing mobility and later solids"
+    },
+    {
+      "id": "US_S01",
+      "title": "Highchair/safe supported eating setup",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Readiness for solids; fit, harness and cleaning matter",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S02",
+      "title": "Small feeding spoons",
+      "priority": "C",
+      "quantity": "2",
+      "note": "Simple utensils sufficient",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S03",
+      "title": "Suitable cup",
+      "priority": "C",
+      "quantity": "1–2",
+      "note": "Start with small quantity",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S04",
+      "title": "Bowl or plate",
+      "priority": "O",
+      "quantity": "1–2",
+      "note": "Existing suitable dish may work; suction feature optional",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S05",
+      "title": "Feeding bibs",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Washable cloth alternative",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S06",
+      "title": "Food-storage containers",
+      "priority": "C",
+      "quantity": "small set",
+      "note": "Batch preparation only; use existing suitable containers",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S07",
+      "title": "Splash mat",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Household floor/cleaning preference",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S08",
+      "title": "Baby-food blender/steamer",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Existing utensils/appliances may meet need",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S09",
+      "title": "Suitable family foods",
+      "priority": "C",
+      "quantity": "recurring groceries",
+      "note": "Food budget, not mandatory packaged baby food",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S10",
+      "title": "Child sunscreen",
+      "priority": "C",
+      "quantity": "exposure/age",
+      "note": "Shade/clothing first; under-six-month advice differs",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_S11",
+      "title": "Sun-protective clothing",
+      "priority": "C",
+      "quantity": "climate/activity",
+      "note": "Buy current fit; not every season ahead",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_D12",
+      "title": "Stacking cups/blocks",
+      "priority": "O",
+      "quantity": "small set",
+      "note": "Borrow/rotate; manufacturer age suitability",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_D13",
+      "title": "Soft ball",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Shared active play",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_D14",
+      "title": "Travel/care equipment top-up",
+      "priority": "C",
+      "quantity": "event-based",
+      "note": "Use H16/F14/T items; confirm provider supplies first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "Around 6–12 months: solids and active exploration"
+    },
+    {
+      "id": "US_L01",
+      "title": "Well-fitting outdoor shoes",
+      "priority": "C",
+      "quantity": "1 pair",
+      "note": "Outdoor walking need; fit now, not far in advance",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L02",
+      "title": "Child cutlery",
+      "priority": "O",
+      "quantity": "small set",
+      "note": "Existing suitable utensils first",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L03",
+      "title": "Childcare backpack",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Provider/start-date trigger",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L04",
+      "title": "Lunchbox",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Only if food must be supplied",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L05",
+      "title": "Drink bottle",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Reuse suitable existing cup/bottle",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L06",
+      "title": "Name labels",
+      "priority": "O",
+      "quantity": "small pack",
+      "note": "Permanent marker can substitute",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L07",
+      "title": "Care sleep linen",
+      "priority": "C",
+      "quantity": "provider-specified",
+      "note": "Ask before buying; avoid duplicating supplied linen",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L08",
+      "title": "Spare clothes for care",
+      "priority": "C",
+      "quantity": "existing rotation",
+      "note": "Label and reuse wardrobe",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L09",
+      "title": "Simple puzzles",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Toy library; age and small-part safety",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L10",
+      "title": "Pretend-play toys",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Safe household objects can substitute",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L11",
+      "title": "Washable crayons and paper",
+      "priority": "O",
+      "quantity": "small set",
+      "note": "Age-suitable supervised activity",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_L13",
+      "title": "Stable handwashing step",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Reach/supervision need; safe storage away from climbing hazards",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "18–24 months: dental supplies and emerging independence"
+    },
+    {
+      "id": "US_L14",
+      "title": "Potty OR toilet reducer and footstool",
+      "priority": "C",
+      "quantity": "one route",
+      "note": "Readiness; may be much later",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "18–24 months: dental supplies and emerging independence"
+    },
+    {
+      "id": "US_L15",
+      "title": "Underwear for toilet learning",
+      "priority": "C",
+      "quantity": "small rotation",
+      "note": "Readiness; washable existing clothing supports routine",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "18–24 months: dental supplies and emerging independence"
+    },
+    {
+      "id": "US_L16",
+      "title": "Training pants",
+      "priority": "O",
+      "quantity": "trial pack",
+      "note": "Optional alternative, not required alongside every nappy type",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "18–24 months: dental supplies and emerging independence"
+    },
+    {
+      "id": "US_L17",
+      "title": "Easy-off clothing",
+      "priority": "C",
+      "quantity": "existing rotation",
+      "note": "Toilet-learning practicality; no special wardrobe required",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "18–24 months: dental supplies and emerging independence"
+    },
+    {
+      "id": "US_L18",
+      "title": "Suitable bed and mattress",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Transition when cot no longer appropriate; specific guidance needs review",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L19",
+      "title": "Bed-sized linen/protection",
+      "priority": "C",
+      "quantity": "small rotation",
+      "note": "Only on actual bed transition; separate from infant cot guidance",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L20",
+      "title": "Balance bike or tricycle",
+      "priority": "O",
+      "quantity": "1",
+      "note": "Readiness, safe location and supervision",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L21",
+      "title": "Activity-appropriate helmet",
+      "priority": "C",
+      "quantity": "1",
+      "note": "Choose a correctly fitting helmet for the activity and check the applicable local standard.",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L22",
+      "title": "Swimwear/rash top",
+      "priority": "C",
+      "quantity": "activity-based",
+      "note": "Sun protection and lessons if chosen",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L23",
+      "title": "Swim diapers",
+      "priority": "C",
+      "quantity": "activity-based",
+      "note": "Only if required for child/activity; do not buy alongside every routine nappy order",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L24",
+      "title": "Sand/water play utensils",
+      "priority": "O",
+      "quantity": "small set",
+      "note": "Existing suitable containers; active water supervision",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_L25",
+      "title": "Dress-up/art supplies",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Safe recycled materials and borrowed costumes",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_K01",
+      "title": "Preschool bag/lunch kit",
+      "priority": "C",
+      "quantity": "gap only",
+      "note": "Reuse L03–L05; confirm provider requirements",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_K02",
+      "title": "Preschool hat and spare clothing",
+      "priority": "C",
+      "quantity": "gap only",
+      "note": "Reuse C05/L08; programme-specific",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_K03",
+      "title": "Rainwear/gumboots",
+      "priority": "C",
+      "quantity": "activity/climate",
+      "note": "Fit and actual outdoor programme",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_K04",
+      "title": "Simple board/card games",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Borrow; social play and interests",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_K05",
+      "title": "Construction/puzzle progression",
+      "priority": "O",
+      "quantity": "small rotation",
+      "note": "Suitability; protect younger siblings from small parts",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_K06",
+      "title": "Child-safe craft tools",
+      "priority": "O",
+      "quantity": "small set",
+      "note": "Supervised activity; age suitability",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_K07",
+      "title": "Next suitable car restraint",
+      "priority": "C",
+      "quantity": "fit/legal trigger",
+      "note": "Only if travelling by car. Check the applicable local child-restraint rules, fit to the child and vehicle, and installation instructions.",
+      "evidence": "transport; editorial draft.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_K08",
+      "title": "School uniform",
+      "priority": "C",
+      "quantity": "school-list quantity",
+      "note": "School entry varies; wait for actual school list",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_K09",
+      "title": "School shoes",
+      "priority": "C",
+      "quantity": "1 fitting pair",
+      "note": "Close to start date; avoid speculative sizes",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_K10",
+      "title": "School bag/lunch kit",
+      "priority": "C",
+      "quantity": "gap only",
+      "note": "Reuse care/preschool gear where suitable",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_K11",
+      "title": "School supplies",
+      "priority": "C",
+      "quantity": "required list",
+      "note": "Purchase only requested items; no default device/tablet",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_K12",
+      "title": "Bicycle/scooter progression",
+      "priority": "O",
+      "quantity": "1 chosen option",
+      "note": "Fit, ability, helmet and safe setting",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_K13",
+      "title": "Activity equipment",
+      "priority": "C",
+      "quantity": "enrolment-based",
+      "note": "Borrow or trial before committing",
+      "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    }
+  ],
+  "sources": [
+    {
+      "id": "antenatal",
+      "title": "ACOG prenatal genetic screening",
+      "url": "https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests"
+    },
+    {
+      "id": "carrier",
+      "title": "ACOG carrier screening",
+      "url": "https://www.acog.org/womens-health/faqs/carrier-screening"
+    },
+    {
+      "id": "vaccines",
+      "title": "CDC pregnancy vaccination guidance",
+      "url": "https://www.cdc.gov/vaccines-pregnancy/hcp/vaccination-guidelines/index.html"
+    },
+    {
+      "id": "child",
+      "title": "CDC child schedule (July 2025 page)",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html"
+    },
+    {
+      "id": "aap",
+      "title": "AAP child immunization schedule",
+      "url": "https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/Recommended-Immunization-Schedules.aspx"
+    },
+    {
+      "id": "sleep",
+      "title": "CPSC safe sleep",
+      "url": "https://www.cpsc.gov/SafeSleep"
+    },
+    {
+      "id": "feeding",
+      "title": "CDC cleaning and sanitizing infant feeding items",
+      "url": "https://www.cdc.gov/hygiene/about/clean-sanitize-store-infant-feeding-items.html"
+    },
+    {
+      "id": "transport",
+      "title": "NHTSA car seats and boosters",
+      "url": "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+    }
+  ],
+  "immunisations": [
+    {
+      "person": "Mum",
+      "title": "Pregnancy vaccine review",
+      "timing": "Ask about Tdap, flu and RSV with your clinician",
+      "source": "vaccines"
+    },
+    {
+      "person": "Dad",
+      "title": "Vaccination history review",
+      "timing": "CDC advises individual history review for caregivers",
+      "source": "vaccines"
+    },
+    {
+      "person": "Child",
+      "title": "Child schedule discussion",
+      "timing": "CDC and AAP publish differing current schedules; confirm with your pediatrician",
+      "source": "child"
+    },
+    {
+      "person": "Child",
+      "title": "Preschool-age immunisation review",
+      "timing": "Review the current 2–5-year pathway with your pediatrician",
+      "source": "aap"
+    }
+  ],
+  "safety": [
+    {
+      "title": "CPSC recalls",
+      "url": "https://www.cpsc.gov/Recalls"
+    },
+    {
+      "title": "NHTSA vehicle recalls",
+      "url": "https://www.nhtsa.gov/recalls"
+    }
+  ],
+  "retailers": [
+    {
+      "title": "Walmart",
+      "url": "https://www.walmart.com/browse/baby/diapering/diapers/5427_486190"
+    },
+    {
+      "title": "Target",
+      "url": "https://www.target.com/c/disposable-diapers-diapering-baby/-/N-5xtlb"
+    },
+    {
+      "title": "Costco",
+      "url": "https://www.costco.com/diapers.html"
+    }
+  ]
+}
