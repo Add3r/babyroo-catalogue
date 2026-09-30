@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
+  "revision": 2,
   "updateUrl": "https://raw.githubusercontent.com/Add3r/babyroo-catalogue/main/catalogue-US.json",
   "country": "US",
   "countryName": "United States",
@@ -1449,6 +1449,60 @@
       "quantity": "enrolment-based",
       "note": "Borrow or trial before committing",
       "evidence": "Editorial draft; check product instructions and current local safety guidance.",
+      "stage": "4–5 years: preschool to school transition"
+    },
+    {
+      "id": "US_MILESTONE_SHOWER",
+      "title": "Baby shower or welcome gathering",
+      "priority": "O",
+      "quantity": "1 optional event",
+      "note": "Optional celebration; choose what feels right for your family and budget. A simple day together counts.",
+      "evidence": "Family choice; no event, gifts or purchase is required.",
+      "stage": "Pregnancy comfort and preparation: 14–27 weeks"
+    },
+    {
+      "id": "US_MILESTONE_BIRTHDAY_1",
+      "title": "First birthday",
+      "priority": "O",
+      "quantity": "1 optional event",
+      "note": "Optional celebration; choose what feels right for your family and budget. A simple day together counts.",
+      "evidence": "Family choice; no event, gifts or purchase is required.",
+      "stage": "12–18 months: walking, family routines and care"
+    },
+    {
+      "id": "US_MILESTONE_BIRTHDAY_2",
+      "title": "Second birthday",
+      "priority": "O",
+      "quantity": "1 optional event",
+      "note": "Optional celebration; choose what feels right for your family and budget. A simple day together counts.",
+      "evidence": "Family choice; no event, gifts or purchase is required.",
+      "stage": "18–24 months: dental supplies and emerging independence"
+    },
+    {
+      "id": "US_MILESTONE_BIRTHDAY_3",
+      "title": "Third birthday",
+      "priority": "O",
+      "quantity": "1 optional event",
+      "note": "Optional celebration; choose what feels right for your family and budget. A simple day together counts.",
+      "evidence": "Family choice; no event, gifts or purchase is required.",
+      "stage": "2–3 years: flexible transitions"
+    },
+    {
+      "id": "US_MILESTONE_BIRTHDAY_4",
+      "title": "Fourth birthday",
+      "priority": "O",
+      "quantity": "1 optional event",
+      "note": "Optional celebration; choose what feels right for your family and budget. A simple day together counts.",
+      "evidence": "Family choice; no event, gifts or purchase is required.",
+      "stage": "3–4 years: preschool participation"
+    },
+    {
+      "id": "US_MILESTONE_BIRTHDAY_5",
+      "title": "Fifth birthday",
+      "priority": "O",
+      "quantity": "1 optional event",
+      "note": "Optional celebration; choose what feels right for your family and budget. A simple day together counts.",
+      "evidence": "Family choice; no event, gifts or purchase is required.",
       "stage": "4–5 years: preschool to school transition"
     }
   ],
